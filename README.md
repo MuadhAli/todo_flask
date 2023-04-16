@@ -13,7 +13,6 @@ This is a simple todo app built using Flask, a Python web framework, and a datab
 
 1. Clone the repository to your local machine using HTTP:
 
-```bash
 git clone https://github.com/MuadhAli/todo_flask.git
 
 
