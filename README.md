@@ -39,7 +39,6 @@ Open a web browser and go to http://localhost:5000 to access the todo app.
 
 1. **Add Task:** Enter a title and optional description for the task in the "Add Task" form and click the "Add" button.
 
-```markdown
 # Usage
 
 1. **Add Task:** Enter a title and optional description for the task in the "Add Task" form and click the "Add" button.
